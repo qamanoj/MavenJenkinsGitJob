@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="68819" started-at="2019-03-30T10:15:51Z" finished-at="2019-03-30T10:17:00Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="68819" started-at="2019-03-30T10:15:51Z" finished-at="2019-03-30T10:17:00Z">
+      <class name="testscripts.TestExecution">
+        <test-method status="PASS" signature="Launch_Verify()[pri:0, instance:testscripts.TestExecution@6043cd28]" name="Launch_Verify" duration-ms="62451" started-at="2019-03-30T15:45:51Z" finished-at="2019-03-30T15:46:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Launch_Verify -->
+        <test-method status="PASS" signature="Login_Verify()[pri:1, instance:testscripts.TestExecution@6043cd28]" name="Login_Verify" duration-ms="6044" started-at="2019-03-30T15:46:54Z" finished-at="2019-03-30T15:47:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Login_Verify -->
+      </class> <!-- testscripts.TestExecution -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
