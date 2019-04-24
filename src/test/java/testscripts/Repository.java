@@ -18,7 +18,7 @@ public class Repository {
 	}
 	public void LoginStart()
 	{
-		Login.username(driver).sendKeys("dmin");
+		Login.username(driver).sendKeys("Admin");
 		Login.password(driver).sendKeys("Admin");
 		Login.loginbutton(driver).click();
 	}
